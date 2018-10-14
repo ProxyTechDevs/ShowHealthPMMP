@@ -1,5 +1,5 @@
-name: HealthShowPMMP
+name: ShowHealthPMMP
 author: ProxyTechDevs
 version: 1.0.0
-main: HealthShow\Main
+main: ShowHealthPMMP\Main
 api: [3.0.0]
