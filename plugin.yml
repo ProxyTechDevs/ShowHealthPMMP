@@ -1,0 +1,5 @@
+name: HealthShowPMMP
+author: ProxyTechDevs
+version: 1.0.0
+main: HealthShow\Main
+api: [3.0.0]
